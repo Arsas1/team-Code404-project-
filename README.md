@@ -24,3 +24,12 @@
 
 ## Практические работы
 
+- [Практическая работа №1](practical-works/practical-work-01/report.md)
+- [Практическая работа №2](practical-works/practical-work-02/report.md)
+- [Практическая работа №3](practical-works/practical-work-03/report.md)
+- [Практическая работа №4](practical-works/practical-work-04/report.md)
+- [Практическая работа №5](practical-works/practical-work-05/report.md)
+- [Практическая работа №6](practical-works/practical-work-06/report.md)
+- [Практическая работа №7](practical-works/practical-work-07/report.md)
+- [Практическая работа №8](practical-works/practical-work-08/report.md)
+
