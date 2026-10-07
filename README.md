@@ -25,7 +25,7 @@
 ## Практические работы
 
 - [Практическая работа №1](practical-works/practical-work-01/VvPD_otchet_3_brigada_sr1.docx)
-- [Практическая работа №2](practical-works/practical-work-02/report.md)
+- [Практическая работа №2](practical-works/practical-work-02/VvPD_otchet_2.docx)
 - [Практическая работа №3](practical-works/practical-work-03/report.md)
 - [Практическая работа №4](practical-works/practical-work-04/report.md)
 - [Практическая работа №5](practical-works/practical-work-05/report.md)
